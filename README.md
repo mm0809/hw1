@@ -2,7 +2,7 @@
 
 ## How to set up and run my program
 
-1. Put "108061111.csv" and "hw1.py" in **same direcotory**.
+1. Put "108061111.csv" and "hw1.py" in the **same direcotory**.
 2. `$ python3 hw1.py` 
   
 ## Output
